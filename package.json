@@ -12,7 +12,7 @@
     "description": "Format JSON:API responses"
   },
   "dependencies": {
-    "kitsu-core": "^8.0.5"
+    "kitsu-core": "^9.0.5"
   },
   "devDependencies": {}
 }

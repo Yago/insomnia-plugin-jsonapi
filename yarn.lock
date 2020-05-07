@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-kitsu-core@^8.0.5:
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/kitsu-core/-/kitsu-core-8.0.5.tgz#840882e8e43b485a54bf2c5cf2ce74fabae92b14"
-  integrity sha512-ncU6WcLluwwin44kmMNHnKMxlqQhBHdfM18zPhKf+AVmcozFOSi7Uwgi/n8KO2FX2/YxC/q8R79aWk/eo6XaOw==
+kitsu-core@^9.0.5:
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/kitsu-core/-/kitsu-core-9.0.5.tgz#fa0b67e7aafe1a5409a9140871250f3a2244e92f"
+  integrity sha512-6z0w52ThbZEBp1Kd0ScNeo7c/cLVsuOdQ1a/1A/K5izQGcAjTANG/BmJUsMTPBRfQPx4oKxG6ZiqIR5f7rfTFw==
